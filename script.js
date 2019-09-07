@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 $(document).ready(function() {
     
     $(".red").click(function() {
@@ -17,3 +18,6 @@ $(document).ready(function() {
         $(".red, .green, .blue, .yellow").fadeToggle();
     });
 });
+=======
+
+>>>>>>> master
